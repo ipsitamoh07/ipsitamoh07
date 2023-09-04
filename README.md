@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipsitamoh07
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning front-end web development
 
 <!---
 ipsitamoh07/ipsitamoh07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
